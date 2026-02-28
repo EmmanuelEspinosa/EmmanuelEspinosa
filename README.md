@@ -1,57 +1,110 @@
-<h1 align="center"><b>Hi , I'm Emmanuel Espinosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img align="right" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" alt="Coding gif" width="250"/>
+<div align="center">
 
+```
+╔═══════════════════════════════════════════╗
+║   EMMANUEL ESPINOSA — FULL STACK DEV      ║
+╚═══════════════════════════════════════════╝
+```
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+# Hey, I'm Manu 👋
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="emmaespinosa1010@gmail.com">emmaespinosa1010@gmail.com</a>
+**`Software Development Student @ IDRA Institute`**
 
-## My Skills Include
+Future full stack developer in my final year of studies. I'm passionate about building
+real things with code — from gym management systems to official documentation pages for companies.
+I'm a people person who values great team dynamics. Always looking to gain more experience.
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+[![Gmail](https://img.shields.io/badge/Gmail-emmaespinosa1010-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmaespinosa1010@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EmmanuelEspinosa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmmanuelEspinosa)
 
-
-</span>
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
-
-</span>
-
-## Check out my Social Media
-
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=EmmanuelEspinosa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/EmmanuelEspinosa)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelEspinosa&theme=material-palenight)](https://github.com/EmmanuelEspinosa)
 </div>
 
+---
+
+## 🧠 About Me
+
+```javascript
+const manu = {
+  role:       "Student → Full Stack Developer",
+  institute:  "Higher Technical Degree in Software Development (IDRA)",
+  year:       "Final year",
+  looking:    "Work experience to sharpen my skills",
+  style:      ["Team player", "Great communicator", "Constant learner"],
+  hobbies:    ["Gaming 🎮", "Music 🎵", "Tech 💻"],
+};
+```
+
+---
+
+## 🛠️ Technologies & Tools
+
+#### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### Frameworks & Tools
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 Documentation Page — Rubicom
+> **Internship 2025**
+
+Built the official help and documentation page for Rubicom's service.
+My first experience working in a professional software environment.
+
+---
+
+### 💪 Gym Management System
+> C# · Year 1 Capstone Project @ IDRA
+
+Full system for managing gym members, payments and routines.
+Capstone project for the first year of the degree.
+
+🔗 [View repository](https://github.com/EmmanuelEspinosa/SISTEMA-GESTOR-DE-UN-GIMNACIO)
+
+---
+
+### 🐾 Vet Appointment Scheduler
+> Angular · MySQL
+
+Web app for managing appointments and client records at a veterinary clinic.
+Developed during coursework at IDRA.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelEspinosa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelEspinosa&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+Want to talk about a project or a job opportunity?
+
+[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmaespinosa1010@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with code and lots of coffee ☕</sub>
+</div>
