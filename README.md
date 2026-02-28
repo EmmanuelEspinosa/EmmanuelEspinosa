@@ -23,14 +23,12 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
 
 ```javascript
 const manu = {
   role:       "Student → Full Stack Developer",
   institute:  "Higher Technical Degree in
                Software Development (IDRA)",
-  year:       "Final year 🎓",
   looking:    "Work experience to level up",
   traits:     ["Team player 🤝",
                "Great communicator 💬",
